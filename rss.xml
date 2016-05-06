@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Edel]]></title>
-        <description><![CDATA[Edel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Diary Of A Gourmande]]></title>
+        <description><![CDATA[Diary Of A Gourmande]]></description>
+        <link>https://thegrid.ai/edel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 13:29:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 14:01:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d89b26-fba0-41e2-b776-b235c30e1de3.jpg">]]></description>
+            <link>https://thegrid.ai/edel/661b7e16-2185-4837-8bf5-471360ef4aa4/index.html</link>
+            <guid isPermaLink="false">661b7e16-2185-4837-8bf5-471360ef4aa4</guid>
+            <pubDate>Fri, 06 May 2016 14:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94d8508d-bb93-4271-8c25-c659f39b3447.jpg">]]></description>
-            <link>undefinedwelcome-bienvenue-willkommen-thats-quite-enough-of-that/index.html</link>
+            <link>https://thegrid.ai/edel/welcome-bienvenue-willkommen-thats-quite-enough-of-that/index.html</link>
             <guid isPermaLink="false">feea856c-db3d-43a2-85a0-5dc5fde89495</guid>
             <pubDate>Fri, 06 May 2016 13:29:02 GMT</pubDate>
         </item>
